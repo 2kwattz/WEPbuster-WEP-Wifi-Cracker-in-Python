@@ -1,3 +1,5 @@
+# Author : Roshan Bhatia . IG/2kwattz
+
 import subprocess
 import pyfiglet
 import time
